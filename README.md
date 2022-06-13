@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Hi! there Byron Welcomes you!
 
-You can use the [editor on GitHub](https://github.com/sak7po/Byron.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can explore my life as a developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is the place where you can check my repos and work and my rpivate projects may not be shown here.
 
-### Markdown
+### Hey!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is just a landing page you can explore things in depth on my git.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Start here
+## Loading...
+### Things we were waiting for.
 
 - Bulleted
 - List
@@ -26,12 +26,12 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+For more details and tools i am experimenting with see [check awesome tools here](https://toolscrypto.online).
 
-### Jekyll Themes
+### Will be on the way to heaven  
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sak7po/Byron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? you can write to me on byron7poswal@gmail.com
