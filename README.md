@@ -1,8 +1,8 @@
-## Hi! there Byron Welcomes you!
+## Hi there Byron Welcomes you!
 
-You can explore my life as a developer.
+Your exploration starts here....
 
-This is the place where you can check my repos and work and my rpivate projects may not be shown here.
+This is the place where you can check my repos and work and my private projects may not be shown here.
 
 ### Hey!
 
@@ -30,7 +30,6 @@ For more details and tools i am experimenting with see [check awesome tools here
 
 ### Will be on the way to heaven  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sak7po/Byron.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
